@@ -1,0 +1,802 @@
+[
+  {
+    "question": "Bitter, yellow fruit; a slice of this is sometimes added to cola or other drinks",
+    "answer": "lemon"
+  },
+  {
+    "question": "Person trained to look after sick people",
+    "answer": "nurse"
+  },
+  {
+    "question": "Unable to see with your eyes",
+    "answer": "blind"
+  },
+  {
+    "question": "Clever; intelligent; brainy",
+    "answer": "smart"
+  },
+  {
+    "question": "Opposite of over; beneath something",
+    "answer": "under"
+  },
+  {
+    "question": "A young deer",
+    "answer": "fawn"
+  },
+  {
+    "question": "Small garden creature with a hard shell on its back",
+    "answer": "snail"
+  },
+  {
+    "question": "Easy to break; not strong",
+    "answer": "weak"
+  },
+  {
+    "question": "Wooden panelling surrounding a piece of land",
+    "answer": "fence"
+  },
+  {
+    "question": "Kitchen item used for beating eggs or cream",
+    "answer": "whisk"
+  },
+  {
+    "question": "For example: square, triangle, pentagon or circle",
+    "answer": "shape"
+  },
+  {
+    "question": "Hard cereal seed, such as wheat",
+    "answer": "grain"
+  },
+  {
+    "question": "At no time in the past or future",
+    "answer": "never"
+  },
+  {
+    "question": "Animal that can be ridden",
+    "answer": "horse"
+  },
+  {
+    "question": "Something won in a competition",
+    "answer": "prize"
+  },
+  {
+    "question": "Someone who cooks food for you at a restaurant",
+    "answer": "chef"
+  },
+  {
+    "question": "Main or important; high rank in the army",
+    "answer": "major"
+  },
+  {
+    "question": "Become in need of rest",
+    "answer": "tire"
+  },
+  {
+    "question": "Red playing card",
+    "answer": "Heart"
+  },
+  {
+    "question": "Powder used for making bread or cakes",
+    "answer": "flour"
+  },
+  {
+    "question": "Thick string, used for tying things up",
+    "answer": "rope"
+  },
+  {
+    "question": "The sharp part of a knife",
+    "answer": "blade"
+  },
+  {
+    "question": "Something opened with a key",
+    "answer": "lock"
+  },
+  {
+    "question": "A red, precious stone; the colour of the slippers in The Wizard of Oz",
+    "answer": "ruby"
+  },
+  {
+    "question": "Keyboard instrument with black and white keys",
+    "answer": "piano"
+  },
+  {
+    "question": "The top of a mountain",
+    "answer": "peak"
+  },
+  {
+    "question": "A type of light you probably have at home",
+    "answer": "lamp"
+  },
+  {
+    "question": "The ability to see; 'eye_____'",
+    "answer": "sight"
+  },
+  {
+    "question": "Not looked after by people, as in 'a ____ animal'",
+    "answer": "wild"
+  },
+  {
+    "question": "Heavenly messenger",
+    "answer": "angel"
+  },
+  {
+    "question": "Container for flowers",
+    "answer": "pot"
+  },
+  {
+    "question": "Plant seeds in the ground",
+    "answer": "sow"
+  },
+  {
+    "question": "Run slowly for exercise",
+    "answer": "jog"
+  },
+  {
+    "question": "Foreigner from another planet",
+    "answer": "planet"
+  },
+  {
+    "question": "Greasy substance cut off meat, such as the rind on bacon",
+    "answer": "fat"
+  },
+  {
+    "question": "Teachers in a school or workers in a shop",
+    "answer": "staff"
+  },
+  {
+    "question": "Place where two bones connect",
+    "answer": "join"
+  },
+  {
+    "question": "Magical being that lives in a lamp and grants wishes",
+    "answer": "genie"
+  },
+  {
+    "question": "The sun, for example; there are lots of these in the night sky",
+    "answer": "star"
+  },
+  {
+    "question": "Furniture you might eat at",
+    "answer": "table"
+  },
+  {
+    "question": "Large grassy area where everybody can go and play",
+    "answer": "park"
+  },
+  {
+    "question": "Walk heavily",
+    "answer": "tramp"
+  },
+  {
+    "question": "Used for drawing straight lines",
+    "answer": "ruler"
+  },
+  {
+    "question": "Choose, as in '____ one of these'",
+    "answer": "pick"
+  },
+  {
+    "question": "Hard, sold rock; a pebble",
+    "answer": "stone"
+  },
+  {
+    "question": "Take part in a game",
+    "answer": "play"
+  },
+  {
+    "question": "Each separate, coloured part of a flower",
+    "answer": "petal"
+  },
+  {
+    "question": "Sugary sweet",
+    "answer": "Candy"
+  },
+  {
+    "question": "Young sheep",
+    "answer": "lamb"
+  },
+  {
+    "question": "Entrance hall in a hotel or a block of flats",
+    "answer": "lobby"
+  },
+  {
+    "question": "Young woman",
+    "answer": "girl"
+  },
+  {
+    "question": "A yellow gemstone often worn as jewellery",
+    "answer": "amber"
+  },
+  {
+    "question": "Young man",
+    "answer": "boy"
+  },
+  {
+    "question": "Go so slowly you don't keep up with everyone else",
+    "answer": "lag"
+  },
+  {
+    "question": "A small, quick meal",
+    "answer": "snack"
+  },
+  {
+    "question": "A picture and sound recording",
+    "answer": "video"
+  },
+  {
+    "question": "The position between ninth and eleventh",
+    "answer": "tenth"
+  },
+  {
+    "question": "Loud sound",
+    "answer": "noise"
+  },
+  {
+    "question": "Try to win a game by breaking the rules",
+    "answer": "cheat"
+  },
+  {
+    "question": "Device for plugging multiple electronic devices into",
+    "answer": "hub"
+  },
+  {
+    "question": "Did light, as in 'Yesterday he ___ the candle'",
+    "answer": "lit"
+  },
+  {
+    "question": "The opposite of hello",
+    "answer": "bye"
+  },
+  {
+    "question": "The brightest star in the sky",
+    "answer": "sun"
+  },
+  {
+    "question": "Something you do in your spare time",
+    "answer": "hobby"
+  },
+  {
+    "question": "Type of sad jazz music",
+    "answer": "blues"
+  },
+  {
+    "question": "Dirty mark on clothing",
+    "answer": "stain"
+  },
+  {
+    "question": "A pile of blank paper fastened together in a book",
+    "answer": "pad"
+  },
+  {
+    "question": "Poisoned fruit given to Snow White",
+    "answer": "apple"
+  },
+  {
+    "question": "Cunning and mischievous, as a fox is often described",
+    "answer": "sly"
+  },
+  {
+    "question": "A metal made from copper and zinc; 'as bold as _____'",
+    "answer": "brass"
+  },
+  {
+    "question": "Young dog",
+    "answer": "puppy"
+  },
+  {
+    "question": "An item of clothing worn by women",
+    "answer": "dress"
+  },
+  {
+    "question": "Move yourself through water",
+    "answer": "swim"
+  },
+  {
+    "question": "Happy; cheerful",
+    "answer": "jolly"
+  },
+  {
+    "question": "When you are in the middle of doing something you are ____",
+    "answer": "busy"
+  },
+  {
+    "question": "The edges of the room that hold up the roof",
+    "answer": "walls"
+  },
+  {
+    "question": "The fifth month of the year",
+    "answer": "may"
+  },
+  {
+    "question": "Something you have if you go out to work to earn money each day",
+    "answer": "job"
+  },
+  {
+    "question": "Wish someone good ____ for a test",
+    "answer": "luck"
+  },
+  {
+    "question": "Story with a moral, such as those written by Aesop",
+    "answer": "fable"
+  },
+  {
+    "question": "Fix something that is broken",
+    "answer": "mend"
+  },
+  {
+    "question": "Raise up; an elevator",
+    "answer": "lift"
+  },
+  {
+    "question": "Wire for connecting electrical equipment",
+    "answer": "cable"
+  },
+  {
+    "question": "Leash for keeping control of a dog",
+    "answer": "lead"
+  },
+  {
+    "question": "Did own, as in 'she ___ that'",
+    "answer": "had"
+  },
+  {
+    "question": "Move something back and forth against something else, as Aladdin did to make the genie appear",
+    "answer": "rub"
+  },
+  {
+    "question": "A vehicle bigger that a car and suitable for moving things",
+    "answer": "van"
+  },
+  {
+    "question": "Something used to open locks",
+    "answer": "key"
+  },
+  {
+    "question": "Weighty; hard to lift",
+    "answer": "heavy"
+  },
+  {
+    "question": "You do this when you swallow liquid",
+    "answer": "drink"
+  },
+  {
+    "question": "Prince William married Catherine in Westminster _____",
+    "answer": "abbey"
+  },
+  {
+    "question": "Notice that tells you which way to go",
+    "answer": "sign"
+  },
+  {
+    "question": "Two of these on a car windscreen help keep it clean",
+    "answer": "wiper"
+  },
+  {
+    "question": "The period from Monday to Sunday",
+    "answer": "week"
+  },
+  {
+    "question": "You do this to show that you're happy",
+    "answer": "smile"
+  },
+  {
+    "question": "A person from Greece",
+    "answer": "Greek"
+  },
+  {
+    "question": "Stiff paper, used for crafts",
+    "answer": "card"
+  },
+  {
+    "question": "Work out a solution, as in '_____ a puzzle'",
+    "answer": "solve"
+  },
+  {
+    "question": "A short message or letter; a musical sound",
+    "answer": "note"
+  },
+  {
+    "question": "The nut from an oak tree",
+    "answer": "acorn"
+  },
+  {
+    "question": "A thick bed covering which you usually put a cover over before using",
+    "answer": "duvet"
+  },
+  {
+    "question": "A young cow",
+    "answer": "calf"
+  },
+  {
+    "question": "A striped orange and black big cat, found in Asia",
+    "answer": "tiger"
+  },
+  {
+    "question": "The opposite of shallow",
+    "answer": "deep"
+  },
+  {
+    "question": "Quarrel; disagree",
+    "answer": "argue"
+  },
+  {
+    "question": "Soft covering on a dog or other animal",
+    "answer": "fur"
+  },
+  {
+    "question": "Short word for a toy bear",
+    "answer": "ted"
+  },
+  {
+    "question": "Place with exercise equipment",
+    "answer": "gym"
+  },
+  {
+    "question": "The whole number between zero and two",
+    "answer": "one"
+  },
+  {
+    "question": "Person who treat sick animals",
+    "answer": "vet"
+  },
+  {
+    "question": "Small house or shelter",
+    "answer": "hut"
+  },
+  {
+    "question": "Clothing for a hand used to keep you warm",
+    "answer": "glove"
+  },
+  {
+    "question": "Used for eating and speaking",
+    "answer": "mouth"
+  },
+  {
+    "question": "Special meal with lots of food for many people",
+    "answer": "feast"
+  },
+  {
+    "question": "Place where a bird sits",
+    "answer": "perch"
+  },
+  {
+    "question": "Draw over something by using another sheet of paper on top",
+    "answer": "trace"
+  },
+  {
+    "question": "Rich, milky topping, sometimes used in coffee or an strawberries and cakes",
+    "answer": "cream"
+  },
+  {
+    "question": "A mistake",
+    "answer": "error"
+  },
+  {
+    "question": "Chocolate powder",
+    "answer": "cocoa"
+  },
+  {
+    "question": "Succeed at a test or exam",
+    "answer": "pass"
+  },
+  {
+    "question": "Power to do supernatural tricks",
+    "answer": "magic"
+  },
+  {
+    "question": "Not an odd number",
+    "answer": "even"
+  },
+  {
+    "question": "Surprise; astonish",
+    "answer": "amaze"
+  },
+  {
+    "question": "Another name for a pig; a type of flu",
+    "answer": "swine"
+  },
+  {
+    "question": "Store a document on a computer",
+    "answer": "save"
+  },
+  {
+    "question": "Lowest value British coin",
+    "answer": "penny"
+  },
+  {
+    "question": "Thin and graceful",
+    "answer": "slim"
+  },
+  {
+    "question": "Odour",
+    "answer": "smell"
+  },
+  {
+    "question": "Poison from snakes",
+    "answer": "venom"
+  },
+  {
+    "question": "Dried plum",
+    "answer": "prune"
+  },
+  {
+    "question": "Strong, aggressive feeling",
+    "answer": "anger"
+  },
+  {
+    "question": "Say words",
+    "answer": "speak"
+  },
+  {
+    "question": "The person who decides who wins in a competition",
+    "answer": "judge"
+  },
+  {
+    "question": "Black and white African horse",
+    "answer": "zebra"
+  },
+  {
+    "question": "Annoying person; insect that destroys crops",
+    "answer": "pest"
+  },
+  {
+    "question": "Stop for a short while",
+    "answer": "pause"
+  },
+  {
+    "question": "Allow access to",
+    "answer": "open"
+  },
+  {
+    "question": "Head of the Roman Catholic Church",
+    "answer": "Pope"
+  },
+  {
+    "question": "Remains of a tree after it has been cut down",
+    "answer": "stump"
+  },
+  {
+    "question": "Plant with green feathery leaves and fronds",
+    "answer": "fern"
+  },
+  {
+    "question": "Opposite of thick",
+    "answer": "thin"
+  },
+  {
+    "question": "A bleeding injury",
+    "answer": "wound"
+  },
+  {
+    "question": "For example: an oak, a sycamore or a fir",
+    "answer": "tree"
+  },
+  {
+    "question": "Building where some families live",
+    "answer": "house"
+  },
+  {
+    "question": "The opposite to a shake of the head",
+    "answer": "nod"
+  },
+  {
+    "question": "Soaked in water",
+    "answer": "wet"
+  },
+  {
+    "question": "Covering worn over the face to hide it",
+    "answer": "mask"
+  },
+  {
+    "question": "Map book",
+    "answer": "atlas"
+  },
+  {
+    "question": "Long walk",
+    "answer": "tramp"
+  },
+  {
+    "question": "Machine that creates power for vehicles",
+    "answer": "motor"
+  },
+  {
+    "question": "The creature in the Jaws movies",
+    "answer": "shark"
+  },
+  {
+    "question": "Noise made by a chicken",
+    "answer": "cluck"
+  },
+  {
+    "question": "Something you stick on a letter",
+    "answer": "stamp"
+  },
+  {
+    "question": "Wobbly dessert",
+    "answer": "jelly"
+  },
+  {
+    "question": "A measure of liquid",
+    "answer": "litre"
+  },
+  {
+    "question": "Desert animal with one or two humps and long eyelashes",
+    "answer": "camel"
+  },
+  {
+    "question": "Sunrise",
+    "answer": "dawn"
+  },
+  {
+    "question": "Turn around quickly",
+    "answer": "twirl"
+  },
+  {
+    "question": "Opposite of right",
+    "answer": "left"
+  },
+  {
+    "question": "A trip out with a boy- or girlfriend",
+    "answer": "date"
+  },
+  {
+    "question": "Opposite of black",
+    "answer": "white"
+  },
+  {
+    "question": "Apartment",
+    "answer": "flat"
+  },
+  {
+    "question": "Cut away unwanted parts, for example with scissors",
+    "answer": "trim"
+  },
+  {
+    "question": "Sweet substance, added to many recipes",
+    "answer": "sugar"
+  },
+  {
+    "question": "Keen-eyed bird of prey",
+    "answer": "hawk"
+  },
+  {
+    "question": "Opposite of smooth",
+    "answer": "rough"
+  },
+  {
+    "question": "Noise made by a cat",
+    "answer": "miaow"
+  },
+  {
+    "question": "Quiet; silence",
+    "answer": "hush"
+  },
+  {
+    "question": "Rest on the surface of water; the opposite of sink",
+    "answer": "float"
+  },
+  {
+    "question": "Young horse",
+    "answer": "pony"
+  },
+  {
+    "question": "Greeting word",
+    "answer": "hello"
+  },
+  {
+    "question": "Opposite of big",
+    "answer": "small"
+  },
+  {
+    "question": "Thick, flavoured liquid poured on some food, especially meat",
+    "answer": "sauce"
+  },
+  {
+    "question": "Cat with streaked fur",
+    "answer": "tabby"
+  },
+  {
+    "question": "Metal disc to commemorate an event",
+    "answer": "medal"
+  },
+  {
+    "question": "Not asleep",
+    "answer": "awake"
+  },
+  {
+    "question": "Poisonous snake",
+    "answer": "cobra"
+  },
+  {
+    "question": "Feeling too pleased with oneself",
+    "answer": "smug"
+  },
+  {
+    "question": "The day before tomorrow",
+    "answer": "today"
+  },
+  {
+    "question": "Not having any hair",
+    "answer": "bald"
+  },
+  {
+    "question": "Someone who poses for photos",
+    "answer": "model"
+  },
+  {
+    "question": "Informal word for a man",
+    "answer": "guy"
+  },
+  {
+    "question": "A small round pot; a bath",
+    "answer": "tub"
+  },
+  {
+    "question": "Fool someone",
+    "answer": "trick"
+  },
+  {
+    "question": "Move on hands and knees",
+    "answer": "crawl"
+  },
+  {
+    "question": "To glue something to something else",
+    "answer": "stick"
+  },
+  {
+    "question": "Essential; absolutely necessary",
+    "answer": "vital"
+  },
+  {
+    "question": "Head bone",
+    "answer": "skull"
+  },
+  {
+    "question": "Health; strong",
+    "answer": "fit"
+  },
+  {
+    "question": "Reasoned thinking",
+    "answer": "logic"
+  },
+  {
+    "question": "Rest on a chair",
+    "answer": "sit"
+  },
+  {
+    "question": "Instructions you mush obey",
+    "answer": "rules"
+  },
+  {
+    "question": "Struggle or argument",
+    "answer": "fight"
+  },
+  {
+    "question": "Sticky",
+    "answer": "tacky"
+  },
+  {
+    "question": "Somewhere you store your valuables",
+    "answer": "safe"
+  },
+  {
+    "question": "Not ever",
+    "answer": "never"
+  },
+  {
+    "question": "Percussion instrument",
+    "answer": "drum"
+  },
+  {
+    "question": "Basin with taps",
+    "answer": "sink"
+  },
+  {
+    "question": "High body temperature",
+    "answer": "fever"
+  },
+  {
+    "question": "Carriage for baby",
+    "answer": "pram"
+  }
+]
