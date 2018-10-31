@@ -1,3 +1,4 @@
 node_modules
 .DS_Store
 lib/questions.json
+json/*.bak
