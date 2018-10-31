@@ -31,7 +31,10 @@ let questions = h.loadQuestionJson(questionsFile)
 
 // console.log(questions)
 
-let result = h.generatePuzzle(5,5, questions);
+let result = null
+do {
+  result = h.generatePuzzle(5,5, questions);
+} while(result.questions.length < 5)
 
 h.printMatrix(result.matrix)
 
